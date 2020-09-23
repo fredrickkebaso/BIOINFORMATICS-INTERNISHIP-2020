@@ -8,7 +8,9 @@ My career fits well into the bioinformatics user curriculum according to the ISC
 I strongly, with no doubt believe that this internship training  at ICIPE  is a noble  opportunity for me to learn and network with colleagues of  similar interest  as well as  build a clear roadmap towards achieving my career objective.
 
 Below is my internship vision as well as my career vision.
+
 MY INTERNSHIP VISION 
+
 1. To   enhance my skills in Linux OS, Python programming and R languages.
 2. To learn, network   and get exposed to the bioinformatics enthusiasts for proper guidance on how to achieve my career.
 3. To get exposed to the real bioinformatics tools and acquit myself with their applications.
@@ -19,5 +21,6 @@ ROAD MAP FOR THE INTERNISHIP
 3.	Learn R scripting language. 
 4.	Be able to apply the skills obtained to real biological data analysis and in the bioinformatics field.
 5.	Lastly define a clear path to follow in order to become a highly skilled Bioinformatician. 
+
 CAREER VISION
 To acquire all the competencies for a bioinformatics user in line with the ISCB’s curriculum   and be able to apply them in research to evoke an impact on how research is conducted as well as disseminate the skills and knowledge to other upcoming Bioinformaticians.
