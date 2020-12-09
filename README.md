@@ -1,5 +1,4 @@
 # BIOINFORMATICS-INTERNISHIP-2020
-This s my take on the internship opportunity  
 I am Fredrick Kebaso Mariita, l have a background in Molecular Biology as my major in my undergraduate studies. I am a bioinformatics enthusiast hence my quest to  acquire the skills needed to realize my dream career. I have so far undertaken an introductory course to bioinformatics (IBT), with the H3bionet, this has given me a little experience and insight on what is required of me to become a highly skilled Bioinformatician. I have a little experience with Linux OS and a few ideas in python l look forward to gain more during this internship period.   Within the three specialization areas in bioinformatics i.e.
 1.	Bioinformatics Engineer
 2.	Bioinformatics User
