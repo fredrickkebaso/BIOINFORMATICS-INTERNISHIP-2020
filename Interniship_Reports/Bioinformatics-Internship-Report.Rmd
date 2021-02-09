@@ -1,0 +1,60 @@
+---
+title: "Bioinformatics Interniship Report"
+author: "Fredrick Kebaso Mariita"
+date: 'Date: 2/9/2021'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+NOTE: This report in html, pdf and word formats can be accessed in this repository 
+[BIOINFORMATICS-INTERNISHIP-2020](https://github.com/fredrickkebaso/BIOINFORMATICS-INTERNISHIP-2020)
+
+
+
+**Acknowledgement**
+
+I take his opportunity to thank our PI, Dr. Dan Masiga,  Karen Wambui, Dr. Caleb,  Mr. Festus and the MBBU staff who played key role in ensuring a smooth stay during the 4 months period. Indeed it has been great moments of vigorous learning and application of new skills, and mentorship. The combined effort enabled me to achieve and even go beyond my set goals as outlined during the start of the training.  Indeed it has been life changing opportunity and now I have a complete view of what expected of me to achieve my career objectives. 
+
+**Introduction**
+
+The report outlines my experience, the skills have gained, lessons that have learnt and my general view and feedback on the internship program.
+
+The opportunity has played a key role in shaping my career development plan. It was a noble opportunity for mentorship and networking with people of similar interest in the bioinformatics field.
+
+**Skilled gained**
+
+Python programming skills, before I had only the basics in programming but now my skills are highly advanced and am capable of using the skills to solve Bioinformatics challenges as well as in data analysis. Am also capable of making simple programs to perform simple tasks and I now have the energy to advance this to complex programs through online learning platforms.
+
+Linux operating system , I knew only a few commands and it was my second preferred  os in my laptop, but this training enabled me to acquire more skills and be comfortable with using the Linux system, and by this time Linux is the only system in my laptop and am now capable of performing several jobs from the terminal.
+
+RNASeq analysis, I had no idea of what this was but through the training, I have been able to understand the whole concept from pre-processing to statistical analysis. This requires skills and knowledge from programming to Linux OS skills to be able to automate the tasks.  I was able to construct a pipeline that performed the task and this has given me hands on skills, the motivation and confidence in the field. Here is the link to the Git Hub Project Repository [Mini_project repository](https://github.com/mbbu/RNA-Seq-mini-project).
+
+Git and git hub, there before I had no account but no idea on how to use, during the training I was able to learn and got exposed to situations and scenarios where it plays a key role such as organizing your projects as well a safe place for keeping your scripts,  sharing learning materials and knowledge. Here is the link [Git hub account](https://github.com/fredrickkebaso?tab=repositories) ,to my Respositories, that contain the materials I used and outputs I generated.
+
+R programming and R-Markdown  - previously I had little knowledge in R, the training received greatly advanced my hands on skills in data analysis using  R packages as well as interpretation of the  generated outputs. Data wrangling or data  science is the new field in technology, this skills form a concrete foundation and starting point and therefore am now ready for exploration at the high level.
+
+HPC operation skills, for the first time I got to use the HPC, I was able to transfer data to and from the HPC and my local pc, I was also capable of running Bioinformatics tools that were not able to run on my local machine.
+
+Presentations and project organization skills, the journal club presentations organized biweekly and several presentations that I made during my training, greatly improved my presentations skills as well as boosted my confidence and I learnt how to organize my work and projects in Git hub through the mini-project. 
+
+**Lessons learnt**
+
+I got to understand what is required of me to become a skilled bioinformatician. The skills that I need to work on as per now and the various networks that are important for me to grow.
+The interaction with colleagues triggered and renewed my energy to soldier in pursuit of my career.
+The various activities organized such as journal club and weekly updates kept me on the move and changed my perception in life as well taught me the importance f self organization in your day to day activities.
+
+
+**Feedback and conclusion**
+
+Generally the program me was well organized and planned, the materials provided were up to date and easily accessible. This enabled me to achieve my goals as outlined in the roadmap at the beginning of the internship.
+I was able to acquire new skills that I wouldn’t have gained on my own  without this opportunity  that enabled me to set right my priorities and future goals.
+
+The training, mentorship and networking I had during this internship have improved my passion and skills for searching and making applications for opportunities in the field including masters scholarship opportunities in bioinformatics.
+
+Data science being the real thing in both science research and technology, the foundation laid gives me the confidence and vigor to advance my knowledge and skills in science.
